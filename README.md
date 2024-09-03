@@ -1,6 +1,6 @@
 👋 Hey there! I’m Usama, a Senior Frontend Developer with a deep passion for the MEVN stack.
 
-👀 My world revolves around Web Development, and I'm constantly exploring the cutting-edge in MongoDB, Express.js, Vue.js, and Node.js.
+👀 My world revolves around Web Development, and I'm constantly exploring the cutting-edge in Vue.js, and Node.js.
 
 🌱 Currently mastering the ins and outs of the MEVN stack to build robust, scalable, and dynamic web applications.
 
